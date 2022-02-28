@@ -3,3 +3,4 @@ This is a git example repository from the modul devOps ZHAW.
 
 Team Members:
 - merkisam (Samuel)
+- schkev01 (Kevin)
